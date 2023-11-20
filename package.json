@@ -1,0 +1,15 @@
+{
+	"name": "pelago",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha **/*Test.js"
+	},
+	"author": "Lukasz Dlugosz",
+	"license": "ISC",
+	"devDependencies": {
+		"chai": "^4.3.10",
+		"mocha": "^10.2.0"
+	}
+}
